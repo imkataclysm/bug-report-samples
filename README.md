@@ -1,4 +1,4 @@
-# 🐞 Bug Report – Login Button Unresponsive
+# Bug Report – Login Button Unresponsive
 
 **Title:**  
 Login button does not respond when clicked on Firefox browser
